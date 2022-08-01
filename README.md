@@ -1,0 +1,2 @@
+# Online-Book-Store
+It is a web application to automate all kinds of operations in the book shop. It includes various books with their titles, authors, descriptions, and costs. The books selected are displayed in a tabular format in the shopping cart, and finally, you can purchase the books online through card payment. It also includes sales and stock management, order processing, payment management, and account management. Tools used : HTML, CSS, Bootstrap, PHP in Apache NetBeans.
